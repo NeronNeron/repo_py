@@ -21,3 +21,4 @@ for i in range(1, 6):
     i += 1
 else:
     print('LOOSER!')
+#edit the file in console
