@@ -4,7 +4,7 @@ def factorial(x):
     elif x < 0:
         print("Factorial doesn't exist")
     else:
-        for i in xrange(1, x):
+        for i in xrange(1, x + 2):
             x *= i
             print(x)
     return 
